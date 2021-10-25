@@ -14,13 +14,7 @@ def count_sum(num):
       
 
 count_sum(input("Input your numbers: "))
-
-
-
-
 print("\n") # Creating space in terminal
-
-
 
 print("Task Two:")
 def group_by_owners(file_dict):
